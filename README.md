@@ -1,2 +1,2 @@
 # training
-TDD
+preparation on TDD - Test Driven Development
